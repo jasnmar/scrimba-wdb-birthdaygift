@@ -61,6 +61,14 @@ h1, h2, h3, h4, p {
     background-repeat: no-repeat;
     background-size: 400px 400px;
 }
+
+#gift-happy:hover {
+    background-image: url("images/happy.gif");
+}
+#gift-react:hover {
+    background-image: url("images/hot.gif");
+}
+
 .gift-section {
     margin-top: 50px;
     display:flex;
