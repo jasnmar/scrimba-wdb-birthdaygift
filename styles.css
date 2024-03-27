@@ -1,3 +1,9 @@
 body {
-    background-color: red;
+    text-align: center;
+    font-family: Happy Monkey;
+}
+
+#profile {
+    border-radius: 100px;
+    width: 100px;
 }
